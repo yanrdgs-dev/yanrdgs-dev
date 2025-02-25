@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Yan Rodrigues and I'm a Software Engineer, from Brasília, Brazil.</p>
+<p align="center">My name is Yan Rodrigues, and I'm a Software Engineering student from Brasília, Brazil.</p>
 
 ###
 
