@@ -35,7 +35,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/yanrdgs-dev/yanrdgs-dev/output/snake.svg" alt="Snake animation" />
-
-###
